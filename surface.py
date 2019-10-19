@@ -7,7 +7,7 @@ from PIL import Image, ImageTk
 import threading
 import time
 
-
+#zcysb！！！！？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？、
 
 class Surface(ttk.Frame):
 	pic_path = ""
