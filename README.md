@@ -1,5 +1,5 @@
-# License-Plate-Recognition
-License Plate Recognition For Car With Python And OpenCV
+# License plate recognition
+License Plate RecognLicense plate recognitionition For Car With Python And OpenCV
 
 #### 用python3+opencv3做的中国车牌识别，包括算法和客户端界面，只有2个文件，surface.py是界面代码，predict.py是算法代码，界面不是重点所以用tkinter写得很简单。
 
