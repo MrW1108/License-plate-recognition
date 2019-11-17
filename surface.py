@@ -49,7 +49,7 @@ class Surface(ttk.Frame):
 
 		from_vedio_ctl = Button(frame_right2, text="来自摄像头",font = 'Helvetica -29 bold',bg="grey",fg="yellow",width=20, command=self.from_vedio)
 
-		button3=Button(frame_right2,text="api再识别",font = 'Helvetica -29 bold',bg="grey",fg="yellow",width=20,command=self.open)
+		button3=Button(frame_right2,text="api再识别",font = 'Helvetica -29 bold',bg="grey",fg="yellow",width=20,command=self.api)
 
 
 
@@ -122,9 +122,7 @@ class Surface(ttk.Frame):
 		self.thread.start()
 		self.thread_run = True
 	def api(self):
-		messagebox.showinfo("api再识别","内容")
-	def open(self):
-		webbrowser.open("https://cloud.baidu.com/product/ocr")
+		webbrowser.open("https://ai.baidu.com/tech/vehicle/car")
 	def from_pic(self):
 		self.thread_run = False
 		self.pic_path = askopenfilename(title="选择识别图片", filetypes=[("jpg图片", "*.jpg")])
