@@ -13,5 +13,4 @@ License Plate RecognLicense plate recognitionition For Car With Python And OpenC
 ##### 额外说明：由于训练样本较少，误差较大。车牌定位算法的参数受图像分辨率、色偏、车距影响，有的车型识别效果有待提高。
 
 ##### 界面效果：
-![](https://github.com/wzh191920/License-Plate-Recognition/blob/master/Screenshots/3.png)
-![](https://github.com/wzh191920/License-Plate-Recognition/blob/master/Screenshots/5.png)
+![](https://github.com/MrW1108/License-plate-recognition/blob/master/%5BSKG%605E%248~_RI7%7B%5DWEP5%25R1.png)
